@@ -1,5 +1,5 @@
 pipeline{
-	agebjt any
+	agent any
 	
 	stages {
 		stage('Compile Stage'){
